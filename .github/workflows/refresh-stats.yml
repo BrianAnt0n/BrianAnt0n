@@ -1,0 +1,15 @@
+name: 🌀 Refresh GitHub Stats Cache
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Runs at 6:00 AM UTC every day
+  workflow_dispatch: # Lets you manually trigger it if needed
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refresh GitHub Stats
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=BrianAnt0n&show_icons=true"
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=BrianAnt0n&layout=compact"
