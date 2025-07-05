@@ -1,7 +1,7 @@
-# Hi, I’m Brian 👋
+# Hi, I’m Brian Aniceto👋
 
 ### 💻 About Me
-I'm a passionate IT student from Quezon City University, specializing in mobile app development, backend systems, and full-stack solutions. I love building impactful tech—from smart systems to practical utilities.
+I'm a passionate IT student from Quezon City University, specializing in mobile app development, and backend systems. I love building impactful tech—from smart systems to practical utilities. I would also love to learn more and improve myself in this field.
 
 ---
 
