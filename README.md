@@ -13,7 +13,7 @@ I'm a passionate IT student from Quezon City University, specializing in mobile 
 
 ### 🚀 Featured Projects
 
-- [📱 CapstoneApp](https://github.com/BrianAnt0n/CapstoneApp) – A smart compost and sensor monitoring mobile app built using **Flutter** and **Supabase**.
+- [📱 E-ComposThink App](https://github.com/BrianAnt0n/CapstoneApp) – A smart compost and sensor monitoring mobile app built using **Flutter** and **Supabase**.
 - [⏱️ OJT Attendance Monitoring System](https://github.com/BrianAnt0n/OJT-Attendance-Monitoring-Using-QR-Code-Project) – A QR code-based attendance tracker using **Flutter**, **PHP**, and **MySQL**.
 
 ---
