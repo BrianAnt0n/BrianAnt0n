@@ -6,8 +6,9 @@ I'm a passionate IT student from Quezon City University, specializing in mobile 
 ---
 
 ### 📊 GitHub Stats
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianAnt0n&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianAnt0n&layout=compact&theme=radical)
+
+![Brian's GitHub stats](https://github-readme-stats-hxjp33144.vercel.app/api?username=BrianAnt0n&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-hxjp33144.vercel.app/api/top-langs/?username=BrianAnt0n&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
