@@ -1,7 +1,9 @@
 # Hi, I’m Brian Aniceto👋
 
 ### 💻 About Me
-I'm a passionate IT student from Quezon City University, specializing in mobile app development, and backend systems. I love building impactful tech from smart systems to practical utilities. I would also love to learn more and improve myself in this field.
+I'm a passionate IT graduate from Quezon City University, specializing in mobile app development, and backend systems. I love building impactful tech from smart systems to practical utilities. I would also love to learn more and improve myself in this field.
+
+🌟 **Check out my work:** [My Personal Portfolio](https://brianant0n.github.io/brian-portfolio/#home)
 
 ---
 
@@ -15,6 +17,7 @@ I'm a passionate IT student from Quezon City University, specializing in mobile 
 
 ### 🚀 Featured Projects
 
+- [🌐 Personal Portfolio Website](https://github.com/BrianAnt0n/brian-portfolio) – My interactive developer portfolio. View it live [here](https://brianant0n.github.io/brian-portfolio/#home).
 - [📱 E-ComposThink App](https://github.com/BrianAnt0n/CapstoneApp) – A smart compost and sensor monitoring mobile app built using **Flutter** and **Supabase**.
 - [⏱️ OJT Attendance Monitoring System](https://github.com/BrianAnt0n/OJT-Attendance-Monitoring-Using-QR-Code-Project) – A QR code-based attendance tracker using **Flutter**, **PHP**, and **MySQL**.
 
@@ -42,6 +45,6 @@ I'm a passionate IT student from Quezon City University, specializing in mobile 
 
 ### 📫 How to reach me
 
-- 📧 Email: anicetobrian.anthony@gmail.com
-- 🌐 [My GitHub](https://github.com/BrianAnt0n)
-
+- 🌐 **Portfolio:** [brianant0n.github.io/brian-portfolio](https://brianant0n.github.io/brian-portfolio/#home)
+- 📧 **Email:** anicetobrian.anthony@gmail.com
+- 💻 **GitHub:** [My GitHub Profile](https://github.com/BrianAnt0n)
